@@ -1,0 +1,2 @@
+Part 1 score is 7980
+Part 2 score is 2881 
