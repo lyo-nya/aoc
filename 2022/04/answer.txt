@@ -1,0 +1,2 @@
+One range fully contains the other in 413 cases
+Ranges overlap at all in 806 cases
